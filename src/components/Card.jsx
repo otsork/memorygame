@@ -3,7 +3,7 @@ import { makeStyles } from '@material-ui/styles'
 import { Icon } from '@material-ui/core'
 
 import * as colors from '../constants/colors'
-import * as constants from '../constants/constants'
+import * as constants from '../constants/variables'
 
 const useStyles = makeStyles({
   cardContainer: {

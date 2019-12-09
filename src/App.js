@@ -1,7 +1,7 @@
 import React from 'react'
 import GameContainer from './containers/GameContainer'
 import { makeStyles } from '@material-ui/styles'
-import { gameBackground } from './constants/constants'
+import { gameBackground } from './constants/variables'
 
 const useStyles = makeStyles({
   app: {
